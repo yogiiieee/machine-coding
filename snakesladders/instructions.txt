@@ -1,0 +1,5 @@
+to compile:
+javac -d bin -sourcepath src src/app/Main.java
+
+to execute:
+java -cp bin app.Main ../input.txt
